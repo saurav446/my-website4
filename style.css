@@ -1,0 +1,110 @@
+.body{
+    margin: 0;
+    font-family: 'Poppins';
+}
+h2{
+    text-transform: uppercase;
+}
+.container h5{
+    font-weight: 100;
+    font-weight: bold;
+    font-size: 20px;
+}
+.carousel-item{
+    padding: 10px 50px;
+}
+.buy-now-button{
+    background-image:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color:#FFFFFF;
+    border:none;
+    border-radius:8px;
+    padding:10px 25px;
+    cursor:pointer;
+}
+
+.container .orange-bg {
+    border-radius: 30px;
+}
+
+
+.container .orange-bg p {
+    color:gray;
+}
+.price{
+    color:#FF2379;
+}
+
+
+
+
+
+/******** images-area ********/
+.cat1, .cat2 , .cat3{
+    padding: 10px 30px;
+    border-radius:10px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color:orchid;
+}
+.cat3{
+    background-color:blue;
+}
+.categories h1{
+    color:#FFFFFF;
+}
+.categories img{
+   width:100px;
+}
+.card{
+    border:none;
+    box-shadow:5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.card .card-footer {
+   background-color: #FFFFFF;
+   border-top: none;
+}
+
+
+
+#subscribe {
+    min-height: 300px;
+    border-radius: 10px;
+}
+.orange-bg {
+    background-color:#FEEAE9;
+}
+
+#subscribe h6{
+    color:gray;
+}
+
+.color{
+    color:#FF3585;
+}
+
+.input-group .form-control{
+    padding: 5px 25px;
+}
+
+
+.input-group .button1{
+    padding: 5px 20px;
+    background-image:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color:#FFFFFF;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+
+
+
+
+
+
